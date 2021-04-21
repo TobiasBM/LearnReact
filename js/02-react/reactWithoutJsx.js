@@ -12,22 +12,20 @@
 *   1. tagType: String
 *   2. Props: Object
 *   3. Children: Array
+*
+* API: React.createElement(tagName, props, Children)
+*
 * */
 
-const app = React.createElement("div", {
-    className: "background",
-    id: "primary",
-}, "React is awesome!")
-
 /*
-* For at få vist dette element på i browseren bruger vi ReactDOM,
+* For at få vist dette element på i browseren bruger vi ReactDOM.render,
 * den tager:
 * 1. React element
 * 2. Root dom node
-* */
-
-ReactDOM.render(app, document.querySelector("#app"))
-
+*
+* API: ReactDOM.render(react element, root dom node)
+*
+* * */
 
 /*
 * OPGAVE:
@@ -38,3 +36,4 @@ ReactDOM.render(app, document.querySelector("#app"))
 * }
 * Elementet skal have teskten - React is awesome!
 * */
+
