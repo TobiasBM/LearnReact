@@ -13,3 +13,9 @@ https://reactjs.org/docs/react-without-jsx.html
 
 #Undefined vs null:
 https://2ality.com/2021/01/undefined-null-revisited.html
+
+#Document createElement
+https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
+
+#Document createTextNode
+https://developer.mozilla.org/en-US/docs/Web/API/Document/createTextNode
