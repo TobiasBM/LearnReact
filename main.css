@@ -16,3 +16,18 @@
     letter-spacing: 0.3rem;
     font-family: Verdana, sans-serif;
 }
+
+.btn {
+    margin: 10px;
+    border: none;
+    padding: 10px;
+    background: darkslateblue;
+    color: whitesmoke;
+}
+
+input{
+    padding: 20px;
+    border: none;
+    background: whitesmoke;
+    font-size: 2rem;
+}
