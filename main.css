@@ -2,6 +2,10 @@
     padding: 0;
     margin: 0;
 }
+
+body {
+    background: whitesmoke;
+}
 .background {
     background: deepskyblue;
     color: black;
@@ -30,4 +34,9 @@ input{
     border: none;
     background: whitesmoke;
     font-size: 2rem;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1180px;
 }
